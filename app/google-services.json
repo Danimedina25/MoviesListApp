@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180385810005",
+    "project_id": "movielistapp-4f99b",
+    "storage_bucket": "movielistapp-4f99b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180385810005:android:6174988ad80fde614876dc",
+        "android_client_info": {
+          "package_name": "com.example.movielistapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPHvMlZtokIMtpA784PsYjeF-j595AoiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
